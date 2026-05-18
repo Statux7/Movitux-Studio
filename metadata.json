@@ -1,0 +1,7 @@
+{
+  "name": "Movitux Studio",
+  "description": "Premium browser-based short-form video editor for creators, featuring a dark minimal interface.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
